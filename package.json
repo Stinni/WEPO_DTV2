@@ -1,0 +1,26 @@
+{
+  "name": "wepo_dtv2",
+  "version": "1.0.0",
+  "description": "Dæmatímaverkefni 2 - WEPO",
+  "main": "App.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stinni/WEPO_DTV2.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "kristinnf13@ru.is",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stinni/WEPO_DTV2/issues"
+  },
+  "homepage": "https://github.com/Stinni/WEPO_DTV2#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.12.0"
+  }
+}
