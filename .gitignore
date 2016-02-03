@@ -34,6 +34,7 @@ _ReSharper*/
 ipch/
 *.opensdf
 node_modules/
+Angular/**/
 
 # Ignore files build by ndk and eclipse
 libs/
