@@ -35,6 +35,7 @@ ipch/
 *.opensdf
 node_modules/
 Angular/**/
+bower_components/
 
 # Ignore files build by ndk and eclipse
 libs/
